@@ -1,2 +1,2 @@
 # nhib.gihub.io
-my personal website
+Learning Gihub is fun. 
